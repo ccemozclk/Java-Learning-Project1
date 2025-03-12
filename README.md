@@ -62,11 +62,3 @@ Compiles and runs the project.
 🔹 **PostgreSQL** (Database Connection & Management)  
 🔹 **JDBC** (Database Communication)  
 🔹 **Git & GitHub** (Version Control)  
-
----
-
-## 📌 **Installation & Usage**
-1️⃣ **Clone the repository:**
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/Java-Login-System.git
-cd Java-Login-System
